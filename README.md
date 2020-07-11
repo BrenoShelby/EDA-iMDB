@@ -1,5 +1,5 @@
 # Exploratory Data Analysis - IMDb
-Everybody who knows me know I like movies as much programming. Then, I've been decided to make this notebook with the purpose of practicing my programming skills on R language, actually, I've still studying it. And, to show some insights about movies, for example, do you know about the nerd supremacy in cinema? Nerdy movies have always dominated the cinema and I can proof (~~hehe~~).
+Everybody who knows me know I like movies as much programming. Then, I decided to make this notebook with the purpose of practicing my programming skills on R language, actually, I've been still studying it. And, to show some insights about movies, for example, do you know about the nerd supremacy in cinema? Nerdy movies have always dominated the cinema and I can proof (~~hehe~~).
 
 I choose a [IMDb dataset](https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset) and selected some questions I wanted to answer. Follow below:
 
